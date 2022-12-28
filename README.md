@@ -37,7 +37,7 @@
 ## Overview
 
 <img src="/foto.png" alt="foto">
-Project done do practice responsive web developement.
+Project done to practice responsive web developement.
 
 
 ## Features
