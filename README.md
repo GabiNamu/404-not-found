@@ -8,9 +8,8 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
     <a href="https://404-not-found-gabi-namu.netlify.app">
-      Solution
+      Solution - DEMO
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
